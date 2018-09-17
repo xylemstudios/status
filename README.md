@@ -15,7 +15,7 @@ Project      | Code pushed | Code cleaned | Rewritten in C++ |
 ColorUtility | ✔️ ([link](https://github.com/xylemstudios/ColorUtility-vb)) | ⌛ | ❌ |
 AnimateGif   | ⌛ | ❌ | ❌ |
 HashSlash    | ⌛ | ❌ | ❌ |
-PhotoScaler  | ⌛ | ❌ | ❌ |
+PhotoScaler  | ✔️ ([link](https://github.com/xylemstudios/PhotoScaler-vb)) | ⌛ | ❌ |
 
 
 ## ⌛ Step 1 - Upload all the things
@@ -25,7 +25,7 @@ Basically give the projects a fresh project structure and upload them in the sta
 - [ColorUtility](https://github.com/xylemstudios/ColorUtility-vb)
 - AnimateGif (to-do)
 - HashSlash (to-do)
-- PhotoScaler (to-do)
+- [PhotoScaler](https://github.com/xylemstudios/PhotoScaler-vb)
 
 ## Step 2 - Clean up the code
 
